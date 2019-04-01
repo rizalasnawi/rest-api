@@ -10,3 +10,7 @@ Route
 | /api/users     | POST           | Create a user (Admin only)                                  |
 | /api/users/:id | DELETE         | Delete a user (Admin only)                                  |
 | /api/users/:id   | PUT           | Update a user with new info (Admin and Aunthenticated user) | 
+
+
+
+link : https://strawberry-custard-25258.herokuapp.com
